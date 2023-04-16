@@ -39,16 +39,20 @@
 
 // Решение:
 
-Console.Write("Введите координаты X1: ");
-int X1 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите координаты X2: ");
-int X2 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите координаты Y1: ");
-int Y1 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите координаты Y2: ");
-int Y2 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите координаты Z1: ");
-int Z1 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите координаты Z2: ");
-int Z2 = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите координаты X1: ");
+// int X1 = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите координаты X2: ");
+// int X2 = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите координаты Y1: ");
+// int Y1 = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите координаты Y2: ");
+// int Y2 = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите координаты Z1: ");
+// int Z1 = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите координаты Z2: ");
+// int Z2 = Convert.ToInt32(Console.ReadLine());
+// double d = Math.Sqrt(Math.Pow((X2 - X1), 2) + Math.Pow((Y2 - Y1), 2) + Math.Pow((Z2 - Z1), 2));
+// Console.WriteLine(Math.Round(d, 2));
+
+//=======================================================
 
