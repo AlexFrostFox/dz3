@@ -39,3 +39,16 @@
 
 // Решение:
 
+Console.Write("Введите координаты X1: ");
+int X1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координаты X2: ");
+int X2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координаты Y1: ");
+int Y1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координаты Y2: ");
+int Y2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координаты Z1: ");
+int Z1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координаты Z2: ");
+int Z2 = Convert.ToInt32(Console.ReadLine());
+
